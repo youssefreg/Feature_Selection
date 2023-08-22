@@ -24,3 +24,18 @@ In (implementation N.2) the data pre-processing stage involves the utilization o
 *Step 2: Study of Each Attack using CICIDS2017 Dataset.*
 
 *Step 3:Study of Each Attack using CICIDS2017 Dataset with Augmented Dataset by CSE-CIC-IDS2018 and CIC-DDoS2019 databases.*
+
+
+
+
+## Citations
+
+If you use the source code please cite the following paper:
+
+```bibtex
+@MastersThesis{Regragui2023,
+    author = {Regragui, Youssef},
+    title = {{Evaluation of the impact of Feature Selection algorithms on an intrusion detection system based on machine learning}},
+    school = {Faculty of Sciences of Rabat, MOHAMMED V},
+    year = {2023}
+}
