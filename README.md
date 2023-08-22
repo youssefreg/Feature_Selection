@@ -7,7 +7,7 @@ Evaluation of the impact of Feature Selection algorithms on an intrusion detecti
 (Implementation N.1) provides an overview of the treebased ML classification framework for intrusion detection.
 The process of the proposed model is as follows. Firstly, sufficient network traffic data is collected. Secondly, if the classes of the data set are imbalanced, oversampling is implemented to reduce its impact. At the next stage, feature selection based on averaging feature importance is done to reduce computational cost. After that, four base-models are built to be the input of the stacking ensemble model. At the end, the final model is built to classify the data.
 
-![Implementation_1](https://github.com/youssefreg/Feature_Selection/assets/112189559/94d8c0dd-315a-4cbc-ba1e-e42d27c84ab1)
+![results_AVI](https://github.com/youssefreg/Feature_Selection/assets/112189559/44ea8b45-0d9c-4f54-aa13-5f41fb335ae7)
 
 
 ## Implementation N2
