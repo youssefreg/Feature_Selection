@@ -15,3 +15,12 @@ The process of the proposed model is as follows. Firstly, sufficient network tra
 In (implementation N.2) the data pre-processing stage involves the utilization of feature selection algorithms to identify and retain relevant features. Information gain and correlation-based feature selection methods are employed to eliminate irrelevant and redundant features from the dataset. Additionally, the Fast Correlation Based Filter (FCBF) model is used to further reduce dimensionality and eliminate noisy features, thereby improving the quality of the network data.
 
 ![results_IGandFCBF](https://github.com/youssefreg/Feature_Selection/assets/112189559/eb9b5fc7-93e3-43f9-ad1b-20b0ad1540b2)
+
+
+## Stages of project implementation
+
+*Step 1: Binary Analysis using CICIDS2017 Dataset.*
+
+*Step 2: Study of Each Attack using CICIDS2017 Dataset.*
+
+*Step 3:Study of Each Attack using CICIDS2017 Dataset with Augmented Dataset by CSE-CIC-IDS2018 and CIC-DDoS2019 databases.*
