@@ -23,7 +23,7 @@ In (implementation N.2) the data pre-processing stage involves the utilization o
 
 *Step 2: Study of Each Attack using CICIDS2017 Dataset.*
 
-*Step 3:Study of Each Attack using CICIDS2017 Dataset with Augmented Dataset by CSE-CIC-IDS2018 and CIC-DDoS2019 databases.*
+*Step 3:Study of Each Attack using CICIDS2017 Dataset with Augmented Dataset by CSE-CIC-IDS2018 and HTTP databases.*
 
 
 
